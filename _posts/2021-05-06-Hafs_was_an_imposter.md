@@ -21,6 +21,7 @@ title: Hafs was an imposter
 
 
 ![bill_jobs][silicon] 
+
 [silicon]:  
 https://an2-img.amz.wtchn.net/image/v1/watcha/image/upload/c_fill,h_400,q_80,w_2 80/v1466137418/h2jmm7eh11jdpa8sdoth.jpg 
 PC산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약상을 그린 작품이다.  
