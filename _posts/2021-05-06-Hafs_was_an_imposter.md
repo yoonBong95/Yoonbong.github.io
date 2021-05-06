@@ -8,7 +8,7 @@ title: Hafs was an imposter
 
 ![Choi_j][meme]
 
-[meme]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fpr1nce_s2%2Fstatus%2F1377303774700576773%3Flang%3Dbg&psig=AOvVaw2TJkL-RZFncaV2HDn2AXef&ust=1620365202076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC5yPmotPACFQAAAAAdAAAAABAD
+[meme]: https://m.post.naver.com/viewer/postView.nhn?volumeNo=31237885&memberNo=11461118&vType=VERTICAL#
 ### 어 이쁘다
 당신은 이제 준며듭니다
 벗어날 수 없습니다
