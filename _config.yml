@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko"
-title                    : "이게 뭘까"
+title                    : "GodHafsIt"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "봉보로봉봉"
+name                     : "B0ng^2"
 description              : "For all the grape bonbon lovers"
 url                      : "https://yoonBong95.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "정윤봉"
   avatar           : "/assets/images/1619673968046__1_-removebg-preview.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hafs was an imposter"
-  location         : "Under the sea"
+  bio              : "Hafsian"
+  location         : "Somewhere past the Event Horizon"
   email            : "21-20718@hafs.hs.kr"
   links:
     - label: "Email"
