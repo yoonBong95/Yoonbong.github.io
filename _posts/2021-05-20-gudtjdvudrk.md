@@ -3,11 +3,11 @@ layout: single
 title: gudtjdvudrk
 toc: true
 toc_sticky: true
-roc_label: "ㅇ0ㅇ"
+toc_label: "알아서 보십쇼"
 ---
 
 ### 72p
-![72p](/assets/images/형서평가/72p.jpg)
+![72p](/assets/images/형성평가/72p.jpg)
 ~~~c
 #include <stdio.h>
  
