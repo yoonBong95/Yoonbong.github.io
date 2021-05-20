@@ -1,20 +1,19 @@
 ---
 layout: single
-title: Hafs was an imposter
+title: Movies
 ---
-### 루피의 협곡에 오신 것을 환영합니다
-![lupy](/assets/images/lupy.png) 
+### 커런트 워
+![lupy](/assets/images/CurWar.jpg) 
 
-이곳에 들어온 이상 당신은 루피 짤의 매력에서 벗어나실 수 없습니다.
+에디슨과 웨스팅하우스의 진검승부 
+교류냐 직류나 그것이 문제로다 
 
-### 어 이쁘다
+### 서치
 ![Choi_j][meme]
 
-[meme]:  https://m.post.naver.com/viewer/postView.nhn?volumeNo=31237885&memberNo=11461118&vType=VERTICAL#
-당신은 이제 준며듭니다
-벗어날 수 없습니다
-이건 뭐....
-
+[meme]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%2584%259C%25EC%25B9%2598_(%25EC%2598%2581%25ED%2599%2594)&psig=AOvVaw0p7EUcR5VAjaK232E_dkdt&ust=1621574191493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD5s9_A1_ACFQAAAAAdAAAAABAD
+100% 디지털 수사극 
+구글링의 진가를 보여주는 영화
 
 ### 침튜브 최고의 명언 
 [![5he_ryeo_Joa](/assets/images/5he_ryeo_Joa.jpg "오히려 좋아~")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2FPostView.nhn%3FblogId%3Dchoiyun9873%26logNo%3D222274703367%26parentCategoryNo%3D%26categoryNo%3D10%26viewDate%3D%26isShowPopularPosts%3Dfalse%26from%3DpostView&psig=AOvVaw2bo6sHUPf_G468rUUyaY4j&ust=1620365330458000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDTu7KptPACFQAAAAAdAAAAABAJ) 
