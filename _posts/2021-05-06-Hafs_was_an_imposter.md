@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Movies
+toc: true
+toc_sticky: true
+roc_label: "목차"
 ---
 ### 커런트 워
 ![lupy](/assets/images/CurWar.jpg) 
