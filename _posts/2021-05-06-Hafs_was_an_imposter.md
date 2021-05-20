@@ -9,9 +9,9 @@ title: Movies
 교류냐 직류나 그것이 문제로다 
 
 ### 서치
-![Choi_j][meme]
+![Search][meme]
 
-[meme]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%2584%259C%25EC%25B9%2598_(%25EC%2598%2581%25ED%2599%2594)&psig=AOvVaw0p7EUcR5VAjaK232E_dkdt&ust=1621574191493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD5s9_A1_ACFQAAAAAdAAAAABAD
+[meme]: https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC:%EC%98%81%ED%99%94_%EC%84%9C%EC%B9%98.jpg
 100% 디지털 수사극 
 구글링의 진가를 보여주는 영화
 
@@ -21,5 +21,7 @@ title: Movies
 
 
 ![bill_jobs][silicon] 
+
 [silicon]: https://an2-img.amz.wtchn.net/image/v1/watcha/image/upload/c_fill,h_400,q_80,w_2 80/v1466137418/h2jmm7eh11jdpa8sdoth.jpg 
+
 PC산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약상을 그린 작품이다.  
