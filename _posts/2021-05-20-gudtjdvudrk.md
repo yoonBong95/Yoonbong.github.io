@@ -7,7 +7,7 @@ toc_label: "알아서 보십쇼"
 ---
 
 ### 72p
-![72p](/assets/images/형성평가/72p.jpg)
+![p72](/assets/images/형성평가/p72.jpg)
 ~~~c
 #include <stdio.h>
  
