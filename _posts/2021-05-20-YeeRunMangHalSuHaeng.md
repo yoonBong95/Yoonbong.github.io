@@ -35,34 +35,7 @@ int main() {
  return 0;
 }
 ~~~
-# 혹은
-~~~c
-#include <stdio.h>
 
-int main(void) {
-  int a, pw_insert, pw=24680;
-  char ic_insert, ic = 'c';
-  double fp_insert, fp = 1.2345678;
-  printf("장치 선택 (1. IC 카드, 2. 비밀번호, 3. 지문) : \n");
-  scanf("%d", &a);
-  if (a==1){
-    printf("IC 카드를 입력하세요 : \n");
-    scanf("%s", &ic_insert);
-  }
-  else if(a==2){
-    printf("비밀번호를 입력하세요 : \n");
-    scanf("%d",&pw_insert);
-  }else{
-    printf("지문을 입력하세요 : \n");
-    scanf("%lf",&fp_insert);
-  }
-  if (fp==fp_insert||ic==ic_insert||pw==pw_insert)
-    printf("문 열렸다, 들어갈 때 문 잘 닫고");
-  else
-    printf("다rrrrrrrrr릭 다rrrrrrrrr릭");
-  return 0;
-}
-~~~
 ### 76p 과목별 점수 계산 프로그램
 ![20210407_141553](/assets/images/형성평가/20210407_141553.jpg)
 ~~~c
@@ -242,7 +215,34 @@ int main(void) {
   return 0;
 }
 ~~~
+# 혹은
+~~~c
+#include <stdio.h>
 
+int main(void) {
+  int a, pw_insert, pw=24680;
+  char ic_insert, ic = 'c';
+  double fp_insert, fp = 1.2345678;
+  printf("장치 선택 (1. IC 카드, 2. 비밀번호, 3. 지문) : \n");
+  scanf("%d", &a);
+  if (a==1){
+    printf("IC 카드를 입력하세요 : \n");
+    scanf("%s", &ic_insert);
+  }
+  else if(a==2){
+    printf("비밀번호를 입력하세요 : \n");
+    scanf("%d",&pw_insert);
+  }else{
+    printf("지문을 입력하세요 : \n");
+    scanf("%lf",&fp_insert);
+  }
+  if (fp==fp_insert||ic==ic_insert||pw==pw_insert)
+    printf("문 열렸다, 들어갈 때 문 잘 닫고");
+  else
+    printf("다rrrrrrrrr릭 다rrrrrrrrr릭");
+  return 0;
+}
+~~~
 ### 가위바위보
 ~~~c
 #include <stdio.h>
