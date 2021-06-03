@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "알아서 보십쇼"
 ---
 
-### 72p
+### 72p 보안코드 입력
 ![p72](/assets/images/형성평가/p72.jpg)
 ~~~c
 #include <stdio.h>
@@ -36,7 +36,7 @@ int main() {
 }
 ~~~
 
-### 76p
+### 76p 과목별 점수 계산 프로그램
 ![20210407_141553](/assets/images/형성평가/20210407_141553.jpg)
 ~~~c
 #include <stdio.h>
@@ -59,7 +59,7 @@ int main(void) {
 }
 ~~~
 
-### 96p
+### 96p 사주풀이
 ![1](/assets/images/형성평가/1.jpg)
 ~~~c
 #include <stdio.h>
@@ -77,7 +77,7 @@ int main(void) {
 }
 ~~~
 
-### 98p
+### 98p 터널 진입 결과 도출
 ![3](/assets/images/형성평가/3.jpg)
 ~~~c
 #include <stdio.h>
@@ -101,7 +101,7 @@ int main(void) {
 }
 ~~~
 
-### 100p
+### 100p 연도, 월에 따른 마지막 날 계산
 ~~~c
 #include <stdio.h>
 
@@ -126,7 +126,7 @@ int main(void) {
 }
 ~~~
 
-### 102p
+### 102p 30분전 시간 계산
 ~~~c
 #include <stdio.h>
 
@@ -145,7 +145,7 @@ int main(void) {
 }
 ~~~
 
-### 104p
+### 104p 책 구입
 ~~~c
 #include <stdio.h>
 
@@ -165,7 +165,7 @@ int main(void) {
 }
 ~~~
 
-### 105p
+### 105p switch case
 ~~~c
 #include <stdio.h>
 
