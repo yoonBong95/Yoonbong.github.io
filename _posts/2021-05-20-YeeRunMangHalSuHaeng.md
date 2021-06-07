@@ -208,7 +208,7 @@ int main(void) {
       printf("지문: ");
       scanf("%lf",&d);
     break;
-  if(b==24680||c=='c' || d==1.2345678)
+  if(b==pw||c==ic || d==fp)
     printf("잠금해제");
   else
     printf("오류발생");
