@@ -24,7 +24,7 @@ int main() {
  printf("보안키를 입력하세요 : ");
  scanf("%f", &key);
  printf("부서코드를 입력하세요 : ");
- scanf("%c ", &code);
+ scanf(" %c ", &code);
  
  printf("***********************\n");
  printf("이름 : %s\n", name);
