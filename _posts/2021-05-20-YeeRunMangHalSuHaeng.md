@@ -113,7 +113,8 @@ int main(void) {
     printf("31");
 
   else if(m==2){
-  if(y%4+y%100!=0||y%400==0)
+  ///if(y%4+y%100!=0||y%400==0)
+    if((y%4==0)&&(y%100!=0)||y%400==0)
     printf("29");
   else
     printf("28");
