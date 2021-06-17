@@ -4,6 +4,8 @@ title: 수행평가
 toc: true
 toc_sticky: true
 toc_label: "알아서 보십쇼"
+categories: 잡동사니 수행평가 C
+last_modified_at: 2021-06-17 T08:06:00-05:00
 ---
 
 ### 72p 보안코드 입력
