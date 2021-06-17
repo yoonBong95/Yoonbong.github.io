@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "YuginEodi"
-    url: /quick-start-guide/
+    url: https://yoonBong95.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
