@@ -2,5 +2,5 @@
 title: "About"
 layout: about
 permalink: /about/
-author_profile: ture
+author_profile: true
 ---
