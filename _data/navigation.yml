@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "YuginEodi"
-    url: https://yoonBong95.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://yoonBong95.github.io/The-Strange-HAFS/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
